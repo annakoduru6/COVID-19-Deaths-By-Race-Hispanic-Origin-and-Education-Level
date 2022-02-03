@@ -1,0 +1,4 @@
+# COVID-19-Deaths-By-Race-Hispanic-Origin-and-Education-Level
+With data from Centers for Disease Control and Prevention, this study determines whether or not racial minorities and those with less education have a higher death rate (related to COVID-19) than other groups. The dataset was created with cumulative provisional counts of death for COVID-19 in the United States by race and educational attainment and collected between January 1, 2020 through January 30, 2021.
+
+Using visualizations and a model summary that calculated the R-squared and adjusted R-squared values as well as p-values for each given category, the hypothesis was rejected and concluded that racial minorities and those with less education do not have a higher COVID-19 death rate than others. Furthermore, it was proven that non-Hispanic White participants and those with a high school degree or GED completed had higher COVID-19 death rates than other groups.
